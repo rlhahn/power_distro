@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-11022016-096942";"";
+"REFERENCE";"RCJ-021";"";
+"TraceParts.PartTitle";"RCJ-02 Series - 1 Port,  Vertical, Through Hole, Shielded, RCA Jack Connector";"";
+"TraceParts.InstanceId";"10-11022016-0969423XTT2P1UB5NZ71AGYGGZ2VQ7U";"";
+"DESIGN";"Metal Vertical RCA Jack, Black Insulator";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"CUI";"";
+"TraceParts.PartVersion";"1.0.3";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"CUI:10-11022016-096942";"";
