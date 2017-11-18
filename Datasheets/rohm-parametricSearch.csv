@@ -1,0 +1,6 @@
+PartNumber,"ROHM AC/DC Designer",Grade,FET,"Controller Type","Output Power [W]","Switch Current Limit (Typ.)[A]","Vin1 (Min.)[V]","Vin1 (Max.)[V]","SW frequency (Max.)[MHz]",Channel,"Light Load mode",EN,"Operating Temperature (Min.)[°C]","Operating Temperature (Max.)[°C]",Package
+BD7F100EFJ-LB,-,Industrial,Integrated,PWM,"1W@Vin=5.0V 5W@Vin=24V",1.25,3,40,400,1,Yes,Yes,-40,125,HTSOP-J8
+BD7F100HFN-LB,-,Industrial,Integrated,PWM,"1W@Vin=5.0V 5W@Vin=24V",1.25,3,40,400,1,Yes,Yes,-40,125,HSON8
+BD7F200EFJ-LB,-,Industrial,Integrated,PWM,"5W@Vin=12V 10W@Vin=24V",2.75,8,40,400,1,Yes,Yes,-40,125,HTSOP-J8
+BD7F200HFN-LB,-,Industrial,Integrated,PWM,"5W@Vin=12V 10W@Vin=24V",2.75,8,40,400,1,Yes,Yes,-40,125,HSON8
+BD8325FVT-M,-,Automotive,-,PWM,-,-,8,18,500,2,No,No,-40,105,TSSOP-B30
